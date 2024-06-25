@@ -1,3 +1,2 @@
 # main-repo-submodule-1
-this is sub module repo
-edited in bsm2 branch
+sub module hotfix-2.1041.0
